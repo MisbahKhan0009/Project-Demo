@@ -36,9 +36,9 @@
 
 7.  Now your MySQL server is running. Let's check if it's working properly by running any SQL command. Here are some basic commands:
 
-        ```
-        show databases;
-        ```
+    ```
+    show databases;
+    ```
 
     This will show all the databases your server has.
 
