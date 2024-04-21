@@ -1,13 +1,13 @@
 # Project Demo
 
-## Setting up MySQL:
+## Setting up MySQL
 
 1.  Download and install MySQL from [here](https://dev.mysql.com/downloads/installer/). Select the server-only option while installing. You can also install the full version, but the server edition suffices. Ensure to check the system requirements. The default username and password for the root user are usually username: admin & password: admin. For simplicity, you can use "admin" for both.
 
 2.  **[Important]** Open CMD as administrator and run:
 
     ```
-    cd C:\Program Files\MySQL\MySQL Server 8.0\bin
+    cd "C:\Program Files\MySQL\MySQL Server 8.0\bin"
     ```
 
 3.  For some reason, I could not use MySQL directly from the root folder of my PC, so I needed to navigate to the MySQL directory as mentioned in step 2. However, you need to repeat step 2 before every session where you do anything on MySQL. I'm trying to solve it; I'll update once I find a solution.
